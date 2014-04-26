@@ -1,0 +1,7 @@
+/* ************************** */
+/* bird shortcodes button style (to TinyMCE editor)
+/* ************************** */
+
+i.bird_shortcodes_icon {
+  background: url('../img/sc_button.png') center center no-repeat;
+}
